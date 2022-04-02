@@ -87,6 +87,11 @@ body{
 .checkbox{
     display: none;
 }
+@media screen and (max-width:350px) {
+    .h2{
+        font-size: 40px;
+    }
+}
 @media screen and (min-width : 768px) {
     .form{
         width: 70%;
