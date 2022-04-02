@@ -108,8 +108,8 @@ body{
     }
 }
 .form-checkbox{
-    height: 30px;
-    width: 30px;
+    height: 16px;
+    width: 16px;
     margin: 10px;
     border: 1px solid #D4D4D4;
     box-sizing: border-box;
