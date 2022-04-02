@@ -19,44 +19,13 @@ body{
     display: flex;
     flex-direction: column;
     position: relative;
-
-    /* justify-content: center; */
-    /* align-items: center; */
-}
-.h1{
-    font-weight: 700;
-    font-size: 67.34px;
-    line-height: 87.85px;
 }
 .h2{
     font-weight: 700;
     font-size: 50.52px;
     line-height: 63.66px;
 }
-.h3{
-    font-weight: 700;
-    font-size: 37.9px;
-    line-height: 47.85px;
-    text-align: center;
-}
-.h4{
-    font-weight: 700;
-    font-size: 28.43px;
-    line-height: 35.52px;
-    text-align: center;
-}
-.h5{
-    font-weight: 700;
-    font-size: 21.34px;
-    line-height: 26.85px;
-    text-align: center;
-}
-.h6{
-    font-weight: 900;
-    font-size: 16px;
-    line-height: 64px;
-    text-align: center;
-}
+
 .big-text{
     font-weight: 400;
     font-size: 21.33px;
@@ -64,19 +33,7 @@ body{
     text-align: center;
 
 }
-.text{
-    font-weight: 400;
-    font-size: 16px;
-    line-height:20.16px;
-    text-align: center;
 
-}
-.small-text{
-    font-weight: 400;
-    font-size: 12px;
-    line-height:15.12px;
-    text-align: center;
-}
 .form{
     display: flex;
     flex-direction: column;
@@ -152,9 +109,6 @@ body{
     border: 1px solid #D4D4D4;
     box-sizing: border-box;
     border-radius: 4px;
-}
-.checkbox p{
-    /* padding-top:10px; */
 }
 .logo{
     width: 160px;
